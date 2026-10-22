@@ -1,0 +1,29 @@
+activity,haz,tonnes,ord,share
+"Agriculture, forestry & fishing",Hazardous,25836,0,0.0938
+Mining & quarrying,Hazardous,818,0,0.0005
+"Food, beverages & tobacco",Hazardous,5393,0,0.0072
+"Chemicals, pharma, rubber & plastics",Hazardous,186329,0,0.4647
+Non-metallic minerals,Hazardous,2847,0,0.0083
+Basic & fabricated metals,Hazardous,44972,0,0.0263
+Electronics & transport equipment,Hazardous,82789,0,0.5486
+Furniture & other manufacturing,Hazardous,26781,0,0.1711
+"Electricity, gas & steam",Hazardous,38022,0,0.2405
+Water supply & remediation,Hazardous,10064,0,0.0436
+Waste collection & treatment,Hazardous,209422,0,0.1159
+Households,Hazardous,112323,0,0.0578
+Construction,Hazardous,19193,0,0.0036
+Services,Hazardous,110873,0,0.0815
+"Agriculture, forestry & fishing",Non-hazardous,249578,1,0.0938
+Mining & quarrying,Non-hazardous,1516781,1,0.0005
+"Food, beverages & tobacco",Non-hazardous,741164,1,0.0072
+"Chemicals, pharma, rubber & plastics",Non-hazardous,214679,1,0.4647
+Non-metallic minerals,Non-hazardous,341967,1,0.0083
+Basic & fabricated metals,Non-hazardous,1663023,1,0.0263
+Electronics & transport equipment,Non-hazardous,68110,1,0.5486
+Furniture & other manufacturing,Non-hazardous,129780,1,0.1711
+"Electricity, gas & steam",Non-hazardous,120072,1,0.2405
+Water supply & remediation,Non-hazardous,220983,1,0.0436
+Waste collection & treatment,Non-hazardous,1597447,1,0.1159
+Households,Non-hazardous,1829418,1,0.0578
+Construction,Non-hazardous,5259062,1,0.0036
+Services,Non-hazardous,1249314,1,0.0815
