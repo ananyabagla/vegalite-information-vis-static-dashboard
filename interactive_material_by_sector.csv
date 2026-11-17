@@ -1,0 +1,901 @@
+year,activity_code,material_group,tonnes,activity,recycled_tonnes
+2010,A,"Chemical, Solvent & Medical Waste",34785,"Agriculture, forestry & fishing",108850
+2010,A,Combustion & Treatment Minerals,0,"Agriculture, forestry & fishing",206937
+2010,A,"Food, Animal & Vegetal Organics",13645,"Agriculture, forestry & fishing",285947
+2010,A,Household & Mixed Waste,2714,"Agriculture, forestry & fishing",6065
+2010,A,Metals & E-Waste / Vehicles,4568,"Agriculture, forestry & fishing",16849
+2010,A,Mineral C&D Waste,0,"Agriculture, forestry & fishing",444800
+2010,A,Other Mineral & Quarry Waste,0,"Agriculture, forestry & fishing",1423
+2010,A,"Recyclables (Paper, Wood, Plastic, Glass)",45431,"Agriculture, forestry & fishing",286934
+2010,A,Soils & Stones,0,"Agriculture, forestry & fishing",1745022
+2010,A,Sorting Residues & Sludges,0,"Agriculture, forestry & fishing",253613
+2010,B,"Chemical, Solvent & Medical Waste",2778,Mining & quarrying,108850
+2010,B,Combustion & Treatment Minerals,0,Mining & quarrying,206937
+2010,B,"Food, Animal & Vegetal Organics",0,Mining & quarrying,285947
+2010,B,Household & Mixed Waste,5393,Mining & quarrying,6065
+2010,B,Metals & E-Waste / Vehicles,18642,Mining & quarrying,16849
+2010,B,Mineral C&D Waste,0,Mining & quarrying,444800
+2010,B,Other Mineral & Quarry Waste,2147656,Mining & quarrying,1423
+2010,B,"Recyclables (Paper, Wood, Plastic, Glass)",12236,Mining & quarrying,286934
+2010,B,Soils & Stones,813,Mining & quarrying,1745022
+2010,B,Sorting Residues & Sludges,8153,Mining & quarrying,253613
+2010,C10-C12,"Chemical, Solvent & Medical Waste",1387,"Food, beverages & tobacco",108850
+2010,C10-C12,Combustion & Treatment Minerals,5797,"Food, beverages & tobacco",206937
+2010,C10-C12,"Food, Animal & Vegetal Organics",508551,"Food, beverages & tobacco",285947
+2010,C10-C12,Household & Mixed Waste,196137,"Food, beverages & tobacco",6065
+2010,C10-C12,Metals & E-Waste / Vehicles,8737,"Food, beverages & tobacco",16849
+2010,C10-C12,Mineral C&D Waste,3368,"Food, beverages & tobacco",444800
+2010,C10-C12,Other Mineral & Quarry Waste,127,"Food, beverages & tobacco",1423
+2010,C10-C12,"Recyclables (Paper, Wood, Plastic, Glass)",37835,"Food, beverages & tobacco",286934
+2010,C10-C12,Soils & Stones,6,"Food, beverages & tobacco",1745022
+2010,C10-C12,Sorting Residues & Sludges,119891,"Food, beverages & tobacco",253613
+2010,C20-C22,"Chemical, Solvent & Medical Waste",189098,"Chemicals, pharma, rubber & plastics",108850
+2010,C20-C22,Combustion & Treatment Minerals,318,"Chemicals, pharma, rubber & plastics",206937
+2010,C20-C22,"Food, Animal & Vegetal Organics",1354,"Chemicals, pharma, rubber & plastics",285947
+2010,C20-C22,Household & Mixed Waste,39157,"Chemicals, pharma, rubber & plastics",6065
+2010,C20-C22,Metals & E-Waste / Vehicles,5619,"Chemicals, pharma, rubber & plastics",16849
+2010,C20-C22,Mineral C&D Waste,6651,"Chemicals, pharma, rubber & plastics",444800
+2010,C20-C22,Other Mineral & Quarry Waste,26836,"Chemicals, pharma, rubber & plastics",1423
+2010,C20-C22,"Recyclables (Paper, Wood, Plastic, Glass)",27024,"Chemicals, pharma, rubber & plastics",286934
+2010,C20-C22,Soils & Stones,2020,"Chemicals, pharma, rubber & plastics",1745022
+2010,C20-C22,Sorting Residues & Sludges,8240,"Chemicals, pharma, rubber & plastics",253613
+2010,C23,"Chemical, Solvent & Medical Waste",4245,Non-metallic minerals,108850
+2010,C23,Combustion & Treatment Minerals,0,Non-metallic minerals,206937
+2010,C23,"Food, Animal & Vegetal Organics",40,Non-metallic minerals,285947
+2010,C23,Household & Mixed Waste,3585,Non-metallic minerals,6065
+2010,C23,Metals & E-Waste / Vehicles,836,Non-metallic minerals,16849
+2010,C23,Mineral C&D Waste,10229,Non-metallic minerals,444800
+2010,C23,Other Mineral & Quarry Waste,2895,Non-metallic minerals,1423
+2010,C23,"Recyclables (Paper, Wood, Plastic, Glass)",2306,Non-metallic minerals,286934
+2010,C23,Soils & Stones,77638,Non-metallic minerals,1745022
+2010,C23,Sorting Residues & Sludges,850,Non-metallic minerals,253613
+2010,C24_C25,"Chemical, Solvent & Medical Waste",21437,Basic & fabricated metals,108850
+2010,C24_C25,Combustion & Treatment Minerals,44081,Basic & fabricated metals,206937
+2010,C24_C25,"Food, Animal & Vegetal Organics",228,Basic & fabricated metals,285947
+2010,C24_C25,Household & Mixed Waste,104230,Basic & fabricated metals,6065
+2010,C24_C25,Metals & E-Waste / Vehicles,32435,Basic & fabricated metals,16849
+2010,C24_C25,Mineral C&D Waste,211,Basic & fabricated metals,444800
+2010,C24_C25,Other Mineral & Quarry Waste,1158857,Basic & fabricated metals,1423
+2010,C24_C25,"Recyclables (Paper, Wood, Plastic, Glass)",3168,Basic & fabricated metals,286934
+2010,C24_C25,Soils & Stones,0,Basic & fabricated metals,1745022
+2010,C24_C25,Sorting Residues & Sludges,18445,Basic & fabricated metals,253613
+2010,C26-C30,"Chemical, Solvent & Medical Waste",11827,Electronics & transport equipment,108850
+2010,C26-C30,Combustion & Treatment Minerals,85,Electronics & transport equipment,206937
+2010,C26-C30,"Food, Animal & Vegetal Organics",480,Electronics & transport equipment,285947
+2010,C26-C30,Household & Mixed Waste,27643,Electronics & transport equipment,6065
+2010,C26-C30,Metals & E-Waste / Vehicles,14604,Electronics & transport equipment,16849
+2010,C26-C30,Mineral C&D Waste,988,Electronics & transport equipment,444800
+2010,C26-C30,Other Mineral & Quarry Waste,2041,Electronics & transport equipment,1423
+2010,C26-C30,"Recyclables (Paper, Wood, Plastic, Glass)",22121,Electronics & transport equipment,286934
+2010,C26-C30,Soils & Stones,80,Electronics & transport equipment,1745022
+2010,C26-C30,Sorting Residues & Sludges,8917,Electronics & transport equipment,253613
+2010,C31-C33,"Chemical, Solvent & Medical Waste",22372,Furniture & other manufacturing,108850
+2010,C31-C33,Combustion & Treatment Minerals,0,Furniture & other manufacturing,206937
+2010,C31-C33,"Food, Animal & Vegetal Organics",699,Furniture & other manufacturing,285947
+2010,C31-C33,Household & Mixed Waste,46582,Furniture & other manufacturing,6065
+2010,C31-C33,Metals & E-Waste / Vehicles,12519,Furniture & other manufacturing,16849
+2010,C31-C33,Mineral C&D Waste,345,Furniture & other manufacturing,444800
+2010,C31-C33,Other Mineral & Quarry Waste,514,Furniture & other manufacturing,1423
+2010,C31-C33,"Recyclables (Paper, Wood, Plastic, Glass)",24298,Furniture & other manufacturing,286934
+2010,C31-C33,Soils & Stones,1819,Furniture & other manufacturing,1745022
+2010,C31-C33,Sorting Residues & Sludges,2229,Furniture & other manufacturing,253613
+2010,D,"Chemical, Solvent & Medical Waste",2114,"Electricity, gas & steam",108850
+2010,D,Combustion & Treatment Minerals,291821,"Electricity, gas & steam",206937
+2010,D,"Food, Animal & Vegetal Organics",117,"Electricity, gas & steam",285947
+2010,D,Household & Mixed Waste,8291,"Electricity, gas & steam",6065
+2010,D,Metals & E-Waste / Vehicles,8515,"Electricity, gas & steam",16849
+2010,D,Mineral C&D Waste,779,"Electricity, gas & steam",444800
+2010,D,Other Mineral & Quarry Waste,502,"Electricity, gas & steam",1423
+2010,D,"Recyclables (Paper, Wood, Plastic, Glass)",3562,"Electricity, gas & steam",286934
+2010,D,Soils & Stones,7722,"Electricity, gas & steam",1745022
+2010,D,Sorting Residues & Sludges,10228,"Electricity, gas & steam",253613
+2010,E36_E37_E39,"Chemical, Solvent & Medical Waste",1852,Water supply & remediation,108850
+2010,E36_E37_E39,Combustion & Treatment Minerals,117351,Water supply & remediation,206937
+2010,E36_E37_E39,"Food, Animal & Vegetal Organics",0,Water supply & remediation,285947
+2010,E36_E37_E39,Household & Mixed Waste,65700,Water supply & remediation,6065
+2010,E36_E37_E39,Metals & E-Waste / Vehicles,10160,Water supply & remediation,16849
+2010,E36_E37_E39,Mineral C&D Waste,18200,Water supply & remediation,444800
+2010,E36_E37_E39,Other Mineral & Quarry Waste,0,Water supply & remediation,1423
+2010,E36_E37_E39,"Recyclables (Paper, Wood, Plastic, Glass)",47659,Water supply & remediation,286934
+2010,E36_E37_E39,Soils & Stones,0,Water supply & remediation,1745022
+2010,E36_E37_E39,Sorting Residues & Sludges,158713,Water supply & remediation,253613
+2010,E38,"Chemical, Solvent & Medical Waste",594801,Waste collection & treatment,108850
+2010,E38,Combustion & Treatment Minerals,88545,Waste collection & treatment,206937
+2010,E38,"Food, Animal & Vegetal Organics",280371,Waste collection & treatment,285947
+2010,E38,Household & Mixed Waste,415231,Waste collection & treatment,6065
+2010,E38,Metals & E-Waste / Vehicles,622160,Waste collection & treatment,16849
+2010,E38,Mineral C&D Waste,94632,Waste collection & treatment,444800
+2010,E38,Other Mineral & Quarry Waste,2860,Waste collection & treatment,1423
+2010,E38,"Recyclables (Paper, Wood, Plastic, Glass)",446948,Waste collection & treatment,286934
+2010,E38,Soils & Stones,7777,Waste collection & treatment,1745022
+2010,E38,Sorting Residues & Sludges,430794,Waste collection & treatment,253613
+2010,EP_HH,"Chemical, Solvent & Medical Waste",1355,Households,108850
+2010,EP_HH,Combustion & Treatment Minerals,0,Households,206937
+2010,EP_HH,"Food, Animal & Vegetal Organics",123626,Households,285947
+2010,EP_HH,Household & Mixed Waste,1381217,Households,6065
+2010,EP_HH,Metals & E-Waste / Vehicles,92211,Households,16849
+2010,EP_HH,Mineral C&D Waste,7505,Households,444800
+2010,EP_HH,Other Mineral & Quarry Waste,0,Households,1423
+2010,EP_HH,"Recyclables (Paper, Wood, Plastic, Glass)",124114,Households,286934
+2010,EP_HH,Soils & Stones,0,Households,1745022
+2010,EP_HH,Sorting Residues & Sludges,0,Households,253613
+2010,F,"Chemical, Solvent & Medical Waste",3368,Construction,108850
+2010,F,Combustion & Treatment Minerals,0,Construction,206937
+2010,F,"Food, Animal & Vegetal Organics",114,Construction,285947
+2010,F,Household & Mixed Waste,89198,Construction,6065
+2010,F,Metals & E-Waste / Vehicles,61627,Construction,16849
+2010,F,Mineral C&D Waste,1176851,Construction,444800
+2010,F,Other Mineral & Quarry Waste,2,Construction,1423
+2010,F,"Recyclables (Paper, Wood, Plastic, Glass)",6409,Construction,286934
+2010,F,Soils & Stones,272193,Construction,1745022
+2010,F,Sorting Residues & Sludges,0,Construction,253613
+2010,G-U_X_G4677,"Chemical, Solvent & Medical Waste",0,Services,108850
+2010,G-U_X_G4677,Combustion & Treatment Minerals,0,Services,206937
+2010,G-U_X_G4677,"Food, Animal & Vegetal Organics",0,Services,285947
+2010,G-U_X_G4677,Household & Mixed Waste,829,Services,6065
+2010,G-U_X_G4677,Metals & E-Waste / Vehicles,136768,Services,16849
+2010,G-U_X_G4677,Mineral C&D Waste,1691,Services,444800
+2010,G-U_X_G4677,Other Mineral & Quarry Waste,0,Services,1423
+2010,G-U_X_G4677,"Recyclables (Paper, Wood, Plastic, Glass)",1401,Services,286934
+2010,G-U_X_G4677,Soils & Stones,0,Services,1745022
+2010,G-U_X_G4677,Sorting Residues & Sludges,0,Services,253613
+2010,TOTAL_HH,"Chemical, Solvent & Medical Waste",1546267,All Activities & Households (National),108850
+2010,TOTAL_HH,Combustion & Treatment Minerals,579522,All Activities & Households (National),206937
+2010,TOTAL_HH,"Food, Animal & Vegetal Organics",2079402,All Activities & Households (National),285947
+2010,TOTAL_HH,Household & Mixed Waste,3731464,All Activities & Households (National),6065
+2010,TOTAL_HH,Metals & E-Waste / Vehicles,1665018,All Activities & Households (National),16849
+2010,TOTAL_HH,Mineral C&D Waste,1437888,All Activities & Households (National),444800
+2010,TOTAL_HH,Other Mineral & Quarry Waste,4946526,All Activities & Households (National),1423
+2010,TOTAL_HH,"Recyclables (Paper, Wood, Plastic, Glass)",1815863,All Activities & Households (National),286934
+2010,TOTAL_HH,Soils & Stones,1094612,All Activities & Households (National),1745022
+2010,TOTAL_HH,Sorting Residues & Sludges,911024,All Activities & Households (National),253613
+2012,A,"Chemical, Solvent & Medical Waste",23742,"Agriculture, forestry & fishing",19284
+2012,A,Combustion & Treatment Minerals,0,"Agriculture, forestry & fishing",227263
+2012,A,"Food, Animal & Vegetal Organics",12187,"Agriculture, forestry & fishing",255993
+2012,A,Household & Mixed Waste,0,"Agriculture, forestry & fishing",27324
+2012,A,Metals & E-Waste / Vehicles,6299,"Agriculture, forestry & fishing",29376
+2012,A,Mineral C&D Waste,0,"Agriculture, forestry & fishing",285472
+2012,A,Other Mineral & Quarry Waste,0,"Agriculture, forestry & fishing",12187
+2012,A,"Recyclables (Paper, Wood, Plastic, Glass)",54023,"Agriculture, forestry & fishing",236194
+2012,A,Soils & Stones,0,"Agriculture, forestry & fishing",1531312
+2012,A,Sorting Residues & Sludges,0,"Agriculture, forestry & fishing",187293
+2012,B,"Chemical, Solvent & Medical Waste",811,Mining & quarrying,19284
+2012,B,Combustion & Treatment Minerals,0,Mining & quarrying,227263
+2012,B,"Food, Animal & Vegetal Organics",202,Mining & quarrying,255993
+2012,B,Household & Mixed Waste,2412,Mining & quarrying,27324
+2012,B,Metals & E-Waste / Vehicles,2922,Mining & quarrying,29376
+2012,B,Mineral C&D Waste,10959,Mining & quarrying,285472
+2012,B,Other Mineral & Quarry Waste,2032695,Mining & quarrying,12187
+2012,B,"Recyclables (Paper, Wood, Plastic, Glass)",3120,Mining & quarrying,236194
+2012,B,Soils & Stones,334,Mining & quarrying,1531312
+2012,B,Sorting Residues & Sludges,30006,Mining & quarrying,187293
+2012,C10-C12,"Chemical, Solvent & Medical Waste",1685,"Food, beverages & tobacco",19284
+2012,C10-C12,Combustion & Treatment Minerals,13487,"Food, beverages & tobacco",227263
+2012,C10-C12,"Food, Animal & Vegetal Organics",857382,"Food, beverages & tobacco",255993
+2012,C10-C12,Household & Mixed Waste,143172,"Food, beverages & tobacco",27324
+2012,C10-C12,Metals & E-Waste / Vehicles,8155,"Food, beverages & tobacco",29376
+2012,C10-C12,Mineral C&D Waste,29966,"Food, beverages & tobacco",285472
+2012,C10-C12,Other Mineral & Quarry Waste,4656,"Food, beverages & tobacco",12187
+2012,C10-C12,"Recyclables (Paper, Wood, Plastic, Glass)",28841,"Food, beverages & tobacco",236194
+2012,C10-C12,Soils & Stones,70706,"Food, beverages & tobacco",1531312
+2012,C10-C12,Sorting Residues & Sludges,554071,"Food, beverages & tobacco",187293
+2012,C20-C22,"Chemical, Solvent & Medical Waste",158916,"Chemicals, pharma, rubber & plastics",19284
+2012,C20-C22,Combustion & Treatment Minerals,366,"Chemicals, pharma, rubber & plastics",227263
+2012,C20-C22,"Food, Animal & Vegetal Organics",1325,"Chemicals, pharma, rubber & plastics",255993
+2012,C20-C22,Household & Mixed Waste,27155,"Chemicals, pharma, rubber & plastics",27324
+2012,C20-C22,Metals & E-Waste / Vehicles,4333,"Chemicals, pharma, rubber & plastics",29376
+2012,C20-C22,Mineral C&D Waste,21507,"Chemicals, pharma, rubber & plastics",285472
+2012,C20-C22,Other Mineral & Quarry Waste,100,"Chemicals, pharma, rubber & plastics",12187
+2012,C20-C22,"Recyclables (Paper, Wood, Plastic, Glass)",22785,"Chemicals, pharma, rubber & plastics",236194
+2012,C20-C22,Soils & Stones,18412,"Chemicals, pharma, rubber & plastics",1531312
+2012,C20-C22,Sorting Residues & Sludges,20148,"Chemicals, pharma, rubber & plastics",187293
+2012,C23,"Chemical, Solvent & Medical Waste",1131,Non-metallic minerals,19284
+2012,C23,Combustion & Treatment Minerals,0,Non-metallic minerals,227263
+2012,C23,"Food, Animal & Vegetal Organics",30,Non-metallic minerals,255993
+2012,C23,Household & Mixed Waste,8536,Non-metallic minerals,27324
+2012,C23,Metals & E-Waste / Vehicles,4165,Non-metallic minerals,29376
+2012,C23,Mineral C&D Waste,833,Non-metallic minerals,285472
+2012,C23,Other Mineral & Quarry Waste,18315,Non-metallic minerals,12187
+2012,C23,"Recyclables (Paper, Wood, Plastic, Glass)",16559,Non-metallic minerals,236194
+2012,C23,Soils & Stones,272,Non-metallic minerals,1531312
+2012,C23,Sorting Residues & Sludges,1220,Non-metallic minerals,187293
+2012,C24_C25,"Chemical, Solvent & Medical Waste",6713,Basic & fabricated metals,19284
+2012,C24_C25,Combustion & Treatment Minerals,10997,Basic & fabricated metals,227263
+2012,C24_C25,"Food, Animal & Vegetal Organics",526,Basic & fabricated metals,255993
+2012,C24_C25,Household & Mixed Waste,122105,Basic & fabricated metals,27324
+2012,C24_C25,Metals & E-Waste / Vehicles,32632,Basic & fabricated metals,29376
+2012,C24_C25,Mineral C&D Waste,396,Basic & fabricated metals,285472
+2012,C24_C25,Other Mineral & Quarry Waste,1217244,Basic & fabricated metals,12187
+2012,C24_C25,"Recyclables (Paper, Wood, Plastic, Glass)",6442,Basic & fabricated metals,236194
+2012,C24_C25,Soils & Stones,22,Basic & fabricated metals,1531312
+2012,C24_C25,Sorting Residues & Sludges,8913,Basic & fabricated metals,187293
+2012,C26-C30,"Chemical, Solvent & Medical Waste",12483,Electronics & transport equipment,19284
+2012,C26-C30,Combustion & Treatment Minerals,9,Electronics & transport equipment,227263
+2012,C26-C30,"Food, Animal & Vegetal Organics",1377,Electronics & transport equipment,255993
+2012,C26-C30,Household & Mixed Waste,24117,Electronics & transport equipment,27324
+2012,C26-C30,Metals & E-Waste / Vehicles,39875,Electronics & transport equipment,29376
+2012,C26-C30,Mineral C&D Waste,16758,Electronics & transport equipment,285472
+2012,C26-C30,Other Mineral & Quarry Waste,103,Electronics & transport equipment,12187
+2012,C26-C30,"Recyclables (Paper, Wood, Plastic, Glass)",14723,Electronics & transport equipment,236194
+2012,C26-C30,Soils & Stones,63528,Electronics & transport equipment,1531312
+2012,C26-C30,Sorting Residues & Sludges,1768,Electronics & transport equipment,187293
+2012,C31-C33,"Chemical, Solvent & Medical Waste",29100,Furniture & other manufacturing,19284
+2012,C31-C33,Combustion & Treatment Minerals,7,Furniture & other manufacturing,227263
+2012,C31-C33,"Food, Animal & Vegetal Organics",1008,Furniture & other manufacturing,255993
+2012,C31-C33,Household & Mixed Waste,15821,Furniture & other manufacturing,27324
+2012,C31-C33,Metals & E-Waste / Vehicles,4133,Furniture & other manufacturing,29376
+2012,C31-C33,Mineral C&D Waste,632,Furniture & other manufacturing,285472
+2012,C31-C33,Other Mineral & Quarry Waste,1155,Furniture & other manufacturing,12187
+2012,C31-C33,"Recyclables (Paper, Wood, Plastic, Glass)",21577,Furniture & other manufacturing,236194
+2012,C31-C33,Soils & Stones,50,Furniture & other manufacturing,1531312
+2012,C31-C33,Sorting Residues & Sludges,1100,Furniture & other manufacturing,187293
+2012,D,"Chemical, Solvent & Medical Waste",656,"Electricity, gas & steam",19284
+2012,D,Combustion & Treatment Minerals,361971,"Electricity, gas & steam",227263
+2012,D,"Food, Animal & Vegetal Organics",65,"Electricity, gas & steam",255993
+2012,D,Household & Mixed Waste,4061,"Electricity, gas & steam",27324
+2012,D,Metals & E-Waste / Vehicles,732,"Electricity, gas & steam",29376
+2012,D,Mineral C&D Waste,2,"Electricity, gas & steam",285472
+2012,D,Other Mineral & Quarry Waste,4079,"Electricity, gas & steam",12187
+2012,D,"Recyclables (Paper, Wood, Plastic, Glass)",178,"Electricity, gas & steam",236194
+2012,D,Soils & Stones,2786,"Electricity, gas & steam",1531312
+2012,D,Sorting Residues & Sludges,319,"Electricity, gas & steam",187293
+2012,E36_E37_E39,"Chemical, Solvent & Medical Waste",280,Water supply & remediation,19284
+2012,E36_E37_E39,Combustion & Treatment Minerals,0,Water supply & remediation,227263
+2012,E36_E37_E39,"Food, Animal & Vegetal Organics",224,Water supply & remediation,255993
+2012,E36_E37_E39,Household & Mixed Waste,209787,Water supply & remediation,27324
+2012,E36_E37_E39,Metals & E-Waste / Vehicles,0,Water supply & remediation,29376
+2012,E36_E37_E39,Mineral C&D Waste,0,Water supply & remediation,285472
+2012,E36_E37_E39,Other Mineral & Quarry Waste,617,Water supply & remediation,12187
+2012,E36_E37_E39,"Recyclables (Paper, Wood, Plastic, Glass)",2570,Water supply & remediation,236194
+2012,E36_E37_E39,Soils & Stones,0,Water supply & remediation,1531312
+2012,E36_E37_E39,Sorting Residues & Sludges,5353,Water supply & remediation,187293
+2012,E38,"Chemical, Solvent & Medical Waste",271,Waste collection & treatment,19284
+2012,E38,Combustion & Treatment Minerals,179132,Waste collection & treatment,227263
+2012,E38,"Food, Animal & Vegetal Organics",0,Waste collection & treatment,255993
+2012,E38,Household & Mixed Waste,20850,Waste collection & treatment,27324
+2012,E38,Metals & E-Waste / Vehicles,266548,Waste collection & treatment,29376
+2012,E38,Mineral C&D Waste,0,Waste collection & treatment,285472
+2012,E38,Other Mineral & Quarry Waste,0,Waste collection & treatment,12187
+2012,E38,"Recyclables (Paper, Wood, Plastic, Glass)",207200,Waste collection & treatment,236194
+2012,E38,Soils & Stones,0,Waste collection & treatment,1531312
+2012,E38,Sorting Residues & Sludges,1044693,Waste collection & treatment,187293
+2012,EP_HH,"Chemical, Solvent & Medical Waste",1634,Households,19284
+2012,EP_HH,Combustion & Treatment Minerals,0,Households,227263
+2012,EP_HH,"Food, Animal & Vegetal Organics",130550,Households,255993
+2012,EP_HH,Household & Mixed Waste,1315810,Households,27324
+2012,EP_HH,Metals & E-Waste / Vehicles,88146,Households,29376
+2012,EP_HH,Mineral C&D Waste,7548,Households,285472
+2012,EP_HH,Other Mineral & Quarry Waste,0,Households,12187
+2012,EP_HH,"Recyclables (Paper, Wood, Plastic, Glass)",112883,Households,236194
+2012,EP_HH,Soils & Stones,99,Households,1531312
+2012,EP_HH,Sorting Residues & Sludges,0,Households,187293
+2012,F,"Chemical, Solvent & Medical Waste",658,Construction,19284
+2012,F,Combustion & Treatment Minerals,0,Construction,227263
+2012,F,"Food, Animal & Vegetal Organics",705,Construction,255993
+2012,F,Household & Mixed Waste,35212,Construction,27324
+2012,F,Metals & E-Waste / Vehicles,16915,Construction,29376
+2012,F,Mineral C&D Waste,93691,Construction,285472
+2012,F,Other Mineral & Quarry Waste,30,Construction,12187
+2012,F,"Recyclables (Paper, Wood, Plastic, Glass)",16078,Construction,236194
+2012,F,Soils & Stones,968647,Construction,1531312
+2012,F,Sorting Residues & Sludges,306,Construction,187293
+2012,G-U_X_G4677,"Chemical, Solvent & Medical Waste",151588,Services,19284
+2012,G-U_X_G4677,Combustion & Treatment Minerals,1989,Services,227263
+2012,G-U_X_G4677,"Food, Animal & Vegetal Organics",126568,Services,255993
+2012,G-U_X_G4677,Household & Mixed Waste,685154,Services,27324
+2012,G-U_X_G4677,Metals & E-Waste / Vehicles,104732,Services,29376
+2012,G-U_X_G4677,Mineral C&D Waste,15853,Services,285472
+2012,G-U_X_G4677,Other Mineral & Quarry Waste,7505,Services,12187
+2012,G-U_X_G4677,"Recyclables (Paper, Wood, Plastic, Glass)",314030,Services,236194
+2012,G-U_X_G4677,Soils & Stones,1167,Services,1531312
+2012,G-U_X_G4677,Sorting Residues & Sludges,33193,Services,187293
+2012,TOTAL_HH,"Chemical, Solvent & Medical Waste",392476,All Activities & Households (National),19284
+2012,TOTAL_HH,Combustion & Treatment Minerals,579573,All Activities & Households (National),227263
+2012,TOTAL_HH,"Food, Animal & Vegetal Organics",1132318,All Activities & Households (National),255993
+2012,TOTAL_HH,Household & Mixed Waste,2736351,All Activities & Households (National),27324
+2012,TOTAL_HH,Metals & E-Waste / Vehicles,582487,All Activities & Households (National),29376
+2012,TOTAL_HH,Mineral C&D Waste,198534,All Activities & Households (National),285472
+2012,TOTAL_HH,Other Mineral & Quarry Waste,3286612,All Activities & Households (National),12187
+2012,TOTAL_HH,"Recyclables (Paper, Wood, Plastic, Glass)",966419,All Activities & Households (National),236194
+2012,TOTAL_HH,Soils & Stones,1126244,All Activities & Households (National),1531312
+2012,TOTAL_HH,Sorting Residues & Sludges,1710663,All Activities & Households (National),187293
+2014,A,"Chemical, Solvent & Medical Waste",23742,"Agriculture, forestry & fishing",3101
+2014,A,Combustion & Treatment Minerals,0,"Agriculture, forestry & fishing",174246
+2014,A,"Food, Animal & Vegetal Organics",12187,"Agriculture, forestry & fishing",232837
+2014,A,Household & Mixed Waste,0,"Agriculture, forestry & fishing",113591
+2014,A,Metals & E-Waste / Vehicles,6299,"Agriculture, forestry & fishing",216601
+2014,A,Mineral C&D Waste,0,"Agriculture, forestry & fishing",397413
+2014,A,Other Mineral & Quarry Waste,0,"Agriculture, forestry & fishing",762972
+2014,A,"Recyclables (Paper, Wood, Plastic, Glass)",54023,"Agriculture, forestry & fishing",338830
+2014,A,Soils & Stones,0,"Agriculture, forestry & fishing",2440586
+2014,A,Sorting Residues & Sludges,0,"Agriculture, forestry & fishing",317121
+2014,B,"Chemical, Solvent & Medical Waste",2026,Mining & quarrying,3101
+2014,B,Combustion & Treatment Minerals,18,Mining & quarrying,174246
+2014,B,"Food, Animal & Vegetal Organics",103,Mining & quarrying,232837
+2014,B,Household & Mixed Waste,3681,Mining & quarrying,113591
+2014,B,Metals & E-Waste / Vehicles,2766,Mining & quarrying,216601
+2014,B,Mineral C&D Waste,639,Mining & quarrying,397413
+2014,B,Other Mineral & Quarry Waste,2663514,Mining & quarrying,762972
+2014,B,"Recyclables (Paper, Wood, Plastic, Glass)",3637,Mining & quarrying,338830
+2014,B,Soils & Stones,53,Mining & quarrying,2440586
+2014,B,Sorting Residues & Sludges,30157,Mining & quarrying,317121
+2014,C10-C12,"Chemical, Solvent & Medical Waste",3434,"Food, beverages & tobacco",3101
+2014,C10-C12,Combustion & Treatment Minerals,15624,"Food, beverages & tobacco",174246
+2014,C10-C12,"Food, Animal & Vegetal Organics",199142,"Food, beverages & tobacco",232837
+2014,C10-C12,Household & Mixed Waste,264477,"Food, beverages & tobacco",113591
+2014,C10-C12,Metals & E-Waste / Vehicles,10397,"Food, beverages & tobacco",216601
+2014,C10-C12,Mineral C&D Waste,14069,"Food, beverages & tobacco",397413
+2014,C10-C12,Other Mineral & Quarry Waste,1499,"Food, beverages & tobacco",762972
+2014,C10-C12,"Recyclables (Paper, Wood, Plastic, Glass)",30194,"Food, beverages & tobacco",338830
+2014,C10-C12,Soils & Stones,93924,"Food, beverages & tobacco",2440586
+2014,C10-C12,Sorting Residues & Sludges,137271,"Food, beverages & tobacco",317121
+2014,C20-C22,"Chemical, Solvent & Medical Waste",158614,"Chemicals, pharma, rubber & plastics",3101
+2014,C20-C22,Combustion & Treatment Minerals,4658,"Chemicals, pharma, rubber & plastics",174246
+2014,C20-C22,"Food, Animal & Vegetal Organics",2161,"Chemicals, pharma, rubber & plastics",232837
+2014,C20-C22,Household & Mixed Waste,53038,"Chemicals, pharma, rubber & plastics",113591
+2014,C20-C22,Metals & E-Waste / Vehicles,8085,"Chemicals, pharma, rubber & plastics",216601
+2014,C20-C22,Mineral C&D Waste,17231,"Chemicals, pharma, rubber & plastics",397413
+2014,C20-C22,Other Mineral & Quarry Waste,289,"Chemicals, pharma, rubber & plastics",762972
+2014,C20-C22,"Recyclables (Paper, Wood, Plastic, Glass)",30366,"Chemicals, pharma, rubber & plastics",338830
+2014,C20-C22,Soils & Stones,134878,"Chemicals, pharma, rubber & plastics",2440586
+2014,C20-C22,Sorting Residues & Sludges,7711,"Chemicals, pharma, rubber & plastics",317121
+2014,C23,"Chemical, Solvent & Medical Waste",1127,Non-metallic minerals,3101
+2014,C23,Combustion & Treatment Minerals,1414,Non-metallic minerals,174246
+2014,C23,"Food, Animal & Vegetal Organics",35,Non-metallic minerals,232837
+2014,C23,Household & Mixed Waste,24118,Non-metallic minerals,113591
+2014,C23,Metals & E-Waste / Vehicles,11923,Non-metallic minerals,216601
+2014,C23,Mineral C&D Waste,176907,Non-metallic minerals,397413
+2014,C23,Other Mineral & Quarry Waste,30822,Non-metallic minerals,762972
+2014,C23,"Recyclables (Paper, Wood, Plastic, Glass)",1474,Non-metallic minerals,338830
+2014,C23,Soils & Stones,356,Non-metallic minerals,2440586
+2014,C23,Sorting Residues & Sludges,445,Non-metallic minerals,317121
+2014,C24_C25,"Chemical, Solvent & Medical Waste",8731,Basic & fabricated metals,3101
+2014,C24_C25,Combustion & Treatment Minerals,6326,Basic & fabricated metals,174246
+2014,C24_C25,"Food, Animal & Vegetal Organics",1405,Basic & fabricated metals,232837
+2014,C24_C25,Household & Mixed Waste,67587,Basic & fabricated metals,113591
+2014,C24_C25,Metals & E-Waste / Vehicles,23844,Basic & fabricated metals,216601
+2014,C24_C25,Mineral C&D Waste,170,Basic & fabricated metals,397413
+2014,C24_C25,Other Mineral & Quarry Waste,1437677,Basic & fabricated metals,762972
+2014,C24_C25,"Recyclables (Paper, Wood, Plastic, Glass)",4956,Basic & fabricated metals,338830
+2014,C24_C25,Soils & Stones,26,Basic & fabricated metals,2440586
+2014,C24_C25,Sorting Residues & Sludges,3833,Basic & fabricated metals,317121
+2014,C26-C30,"Chemical, Solvent & Medical Waste",11455,Electronics & transport equipment,3101
+2014,C26-C30,Combustion & Treatment Minerals,0,Electronics & transport equipment,174246
+2014,C26-C30,"Food, Animal & Vegetal Organics",1053,Electronics & transport equipment,232837
+2014,C26-C30,Household & Mixed Waste,23092,Electronics & transport equipment,113591
+2014,C26-C30,Metals & E-Waste / Vehicles,37748,Electronics & transport equipment,216601
+2014,C26-C30,Mineral C&D Waste,34296,Electronics & transport equipment,397413
+2014,C26-C30,Other Mineral & Quarry Waste,36,Electronics & transport equipment,762972
+2014,C26-C30,"Recyclables (Paper, Wood, Plastic, Glass)",17570,Electronics & transport equipment,338830
+2014,C26-C30,Soils & Stones,45906,Electronics & transport equipment,2440586
+2014,C26-C30,Sorting Residues & Sludges,3861,Electronics & transport equipment,317121
+2014,C31-C33,"Chemical, Solvent & Medical Waste",17029,Furniture & other manufacturing,3101
+2014,C31-C33,Combustion & Treatment Minerals,0,Furniture & other manufacturing,174246
+2014,C31-C33,"Food, Animal & Vegetal Organics",1002,Furniture & other manufacturing,232837
+2014,C31-C33,Household & Mixed Waste,27611,Furniture & other manufacturing,113591
+2014,C31-C33,Metals & E-Waste / Vehicles,1820,Furniture & other manufacturing,216601
+2014,C31-C33,Mineral C&D Waste,770,Furniture & other manufacturing,397413
+2014,C31-C33,Other Mineral & Quarry Waste,2195,Furniture & other manufacturing,762972
+2014,C31-C33,"Recyclables (Paper, Wood, Plastic, Glass)",35913,Furniture & other manufacturing,338830
+2014,C31-C33,Soils & Stones,17,Furniture & other manufacturing,2440586
+2014,C31-C33,Sorting Residues & Sludges,1145,Furniture & other manufacturing,317121
+2014,D,"Chemical, Solvent & Medical Waste",1220,"Electricity, gas & steam",3101
+2014,D,Combustion & Treatment Minerals,314325,"Electricity, gas & steam",174246
+2014,D,"Food, Animal & Vegetal Organics",113,"Electricity, gas & steam",232837
+2014,D,Household & Mixed Waste,1470,"Electricity, gas & steam",113591
+2014,D,Metals & E-Waste / Vehicles,968,"Electricity, gas & steam",216601
+2014,D,Mineral C&D Waste,172,"Electricity, gas & steam",397413
+2014,D,Other Mineral & Quarry Waste,133,"Electricity, gas & steam",762972
+2014,D,"Recyclables (Paper, Wood, Plastic, Glass)",469,"Electricity, gas & steam",338830
+2014,D,Soils & Stones,1397,"Electricity, gas & steam",2440586
+2014,D,Sorting Residues & Sludges,752,"Electricity, gas & steam",317121
+2014,E36_E37_E39,"Chemical, Solvent & Medical Waste",13,Water supply & remediation,3101
+2014,E36_E37_E39,Combustion & Treatment Minerals,0,Water supply & remediation,174246
+2014,E36_E37_E39,"Food, Animal & Vegetal Organics",201,Water supply & remediation,232837
+2014,E36_E37_E39,Household & Mixed Waste,20219,Water supply & remediation,113591
+2014,E36_E37_E39,Metals & E-Waste / Vehicles,1,Water supply & remediation,216601
+2014,E36_E37_E39,Mineral C&D Waste,52,Water supply & remediation,397413
+2014,E36_E37_E39,Other Mineral & Quarry Waste,8136,Water supply & remediation,762972
+2014,E36_E37_E39,"Recyclables (Paper, Wood, Plastic, Glass)",27,Water supply & remediation,338830
+2014,E36_E37_E39,Soils & Stones,0,Water supply & remediation,2440586
+2014,E36_E37_E39,Sorting Residues & Sludges,445494,Water supply & remediation,317121
+2014,E38,"Chemical, Solvent & Medical Waste",1799,Waste collection & treatment,3101
+2014,E38,Combustion & Treatment Minerals,136288,Waste collection & treatment,174246
+2014,E38,"Food, Animal & Vegetal Organics",0,Waste collection & treatment,232837
+2014,E38,Household & Mixed Waste,44899,Waste collection & treatment,113591
+2014,E38,Metals & E-Waste / Vehicles,220985,Waste collection & treatment,216601
+2014,E38,Mineral C&D Waste,71,Waste collection & treatment,397413
+2014,E38,Other Mineral & Quarry Waste,0,Waste collection & treatment,762972
+2014,E38,"Recyclables (Paper, Wood, Plastic, Glass)",379163,Waste collection & treatment,338830
+2014,E38,Soils & Stones,957,Waste collection & treatment,2440586
+2014,E38,Sorting Residues & Sludges,1775532,Waste collection & treatment,317121
+2014,EP_HH,"Chemical, Solvent & Medical Waste",1639,Households,3101
+2014,EP_HH,Combustion & Treatment Minerals,0,Households,174246
+2014,EP_HH,"Food, Animal & Vegetal Organics",114820,Households,232837
+2014,EP_HH,Household & Mixed Waste,1180762,Households,113591
+2014,EP_HH,Metals & E-Waste / Vehicles,101988,Households,216601
+2014,EP_HH,Mineral C&D Waste,9371,Households,397413
+2014,EP_HH,Other Mineral & Quarry Waste,0,Households,762972
+2014,EP_HH,"Recyclables (Paper, Wood, Plastic, Glass)",115776,Households,338830
+2014,EP_HH,Soils & Stones,0,Households,2440586
+2014,EP_HH,Sorting Residues & Sludges,0,Households,317121
+2014,F,"Chemical, Solvent & Medical Waste",1855,Construction,3101
+2014,F,Combustion & Treatment Minerals,0,Construction,174246
+2014,F,"Food, Animal & Vegetal Organics",1656,Construction,232837
+2014,F,Household & Mixed Waste,21938,Construction,113591
+2014,F,Metals & E-Waste / Vehicles,7175,Construction,216601
+2014,F,Mineral C&D Waste,133312,Construction,397413
+2014,F,Other Mineral & Quarry Waste,798,Construction,762972
+2014,F,"Recyclables (Paper, Wood, Plastic, Glass)",35007,Construction,338830
+2014,F,Soils & Stones,1681897,Construction,2440586
+2014,F,Sorting Residues & Sludges,749,Construction,317121
+2014,G-U_X_G4677,"Chemical, Solvent & Medical Waste",77828,Services,3101
+2014,G-U_X_G4677,Combustion & Treatment Minerals,0,Services,174246
+2014,G-U_X_G4677,"Food, Animal & Vegetal Organics",220296,Services,232837
+2014,G-U_X_G4677,Household & Mixed Waste,533256,Services,113591
+2014,G-U_X_G4677,Metals & E-Waste / Vehicles,27772,Services,216601
+2014,G-U_X_G4677,Mineral C&D Waste,61799,Services,397413
+2014,G-U_X_G4677,Other Mineral & Quarry Waste,6454,Services,762972
+2014,G-U_X_G4677,"Recyclables (Paper, Wood, Plastic, Glass)",309552,Services,338830
+2014,G-U_X_G4677,Soils & Stones,836380,Services,2440586
+2014,G-U_X_G4677,Sorting Residues & Sludges,47031,Services,317121
+2014,TOTAL_HH,"Chemical, Solvent & Medical Waste",313940,All Activities & Households (National),3101
+2014,TOTAL_HH,Combustion & Treatment Minerals,491651,All Activities & Households (National),174246
+2014,TOTAL_HH,"Food, Animal & Vegetal Organics",554285,All Activities & Households (National),232837
+2014,TOTAL_HH,Household & Mixed Waste,2293851,All Activities & Households (National),113591
+2014,TOTAL_HH,Metals & E-Waste / Vehicles,473907,All Activities & Households (National),216601
+2014,TOTAL_HH,Mineral C&D Waste,450618,All Activities & Households (National),397413
+2014,TOTAL_HH,Other Mineral & Quarry Waste,4151599,All Activities & Households (National),762972
+2014,TOTAL_HH,"Recyclables (Paper, Wood, Plastic, Glass)",1173353,All Activities & Households (National),338830
+2014,TOTAL_HH,Soils & Stones,2799029,All Activities & Households (National),2440586
+2014,TOTAL_HH,Sorting Residues & Sludges,2459116,All Activities & Households (National),317121
+2016,A,"Chemical, Solvent & Medical Waste",25442,"Agriculture, forestry & fishing",3347
+2016,A,Combustion & Treatment Minerals,0,"Agriculture, forestry & fishing",73738
+2016,A,"Food, Animal & Vegetal Organics",12030,"Agriculture, forestry & fishing",316003
+2016,A,Household & Mixed Waste,3157,"Agriculture, forestry & fishing",48107
+2016,A,Metals & E-Waste / Vehicles,6028,"Agriculture, forestry & fishing",205712
+2016,A,Mineral C&D Waste,0,"Agriculture, forestry & fishing",426284
+2016,A,Other Mineral & Quarry Waste,0,"Agriculture, forestry & fishing",858537
+2016,A,"Recyclables (Paper, Wood, Plastic, Glass)",58376,"Agriculture, forestry & fishing",289071
+2016,A,Soils & Stones,0,"Agriculture, forestry & fishing",4117297
+2016,A,Sorting Residues & Sludges,0,"Agriculture, forestry & fishing",326299
+2016,B,"Chemical, Solvent & Medical Waste",1145,Mining & quarrying,3347
+2016,B,Combustion & Treatment Minerals,0,Mining & quarrying,73738
+2016,B,"Food, Animal & Vegetal Organics",18,Mining & quarrying,316003
+2016,B,Household & Mixed Waste,5549,Mining & quarrying,48107
+2016,B,Metals & E-Waste / Vehicles,6087,Mining & quarrying,205712
+2016,B,Mineral C&D Waste,9835,Mining & quarrying,426284
+2016,B,Other Mineral & Quarry Waste,2343431,Mining & quarrying,858537
+2016,B,"Recyclables (Paper, Wood, Plastic, Glass)",7023,Mining & quarrying,289071
+2016,B,Soils & Stones,16326,Mining & quarrying,4117297
+2016,B,Sorting Residues & Sludges,9075,Mining & quarrying,326299
+2016,C10-C12,"Chemical, Solvent & Medical Waste",1498,"Food, beverages & tobacco",3347
+2016,C10-C12,Combustion & Treatment Minerals,18924,"Food, beverages & tobacco",73738
+2016,C10-C12,"Food, Animal & Vegetal Organics",615796,"Food, beverages & tobacco",316003
+2016,C10-C12,Household & Mixed Waste,220903,"Food, beverages & tobacco",48107
+2016,C10-C12,Metals & E-Waste / Vehicles,6490,"Food, beverages & tobacco",205712
+2016,C10-C12,Mineral C&D Waste,13941,"Food, beverages & tobacco",426284
+2016,C10-C12,Other Mineral & Quarry Waste,643,"Food, beverages & tobacco",858537
+2016,C10-C12,"Recyclables (Paper, Wood, Plastic, Glass)",26821,"Food, beverages & tobacco",289071
+2016,C10-C12,Soils & Stones,15674,"Food, beverages & tobacco",4117297
+2016,C10-C12,Sorting Residues & Sludges,397928,"Food, beverages & tobacco",326299
+2016,C20-C22,"Chemical, Solvent & Medical Waste",127065,"Chemicals, pharma, rubber & plastics",3347
+2016,C20-C22,Combustion & Treatment Minerals,516,"Chemicals, pharma, rubber & plastics",73738
+2016,C20-C22,"Food, Animal & Vegetal Organics",2965,"Chemicals, pharma, rubber & plastics",316003
+2016,C20-C22,Household & Mixed Waste,21039,"Chemicals, pharma, rubber & plastics",48107
+2016,C20-C22,Metals & E-Waste / Vehicles,5663,"Chemicals, pharma, rubber & plastics",205712
+2016,C20-C22,Mineral C&D Waste,9193,"Chemicals, pharma, rubber & plastics",426284
+2016,C20-C22,Other Mineral & Quarry Waste,772,"Chemicals, pharma, rubber & plastics",858537
+2016,C20-C22,"Recyclables (Paper, Wood, Plastic, Glass)",14889,"Chemicals, pharma, rubber & plastics",289071
+2016,C20-C22,Soils & Stones,34200,"Chemicals, pharma, rubber & plastics",4117297
+2016,C20-C22,Sorting Residues & Sludges,6783,"Chemicals, pharma, rubber & plastics",326299
+2016,C23,"Chemical, Solvent & Medical Waste",1518,Non-metallic minerals,3347
+2016,C23,Combustion & Treatment Minerals,77420,Non-metallic minerals,73738
+2016,C23,"Food, Animal & Vegetal Organics",13,Non-metallic minerals,316003
+2016,C23,Household & Mixed Waste,18191,Non-metallic minerals,48107
+2016,C23,Metals & E-Waste / Vehicles,7450,Non-metallic minerals,205712
+2016,C23,Mineral C&D Waste,14238,Non-metallic minerals,426284
+2016,C23,Other Mineral & Quarry Waste,18241,Non-metallic minerals,858537
+2016,C23,"Recyclables (Paper, Wood, Plastic, Glass)",6626,Non-metallic minerals,289071
+2016,C23,Soils & Stones,1240669,Non-metallic minerals,4117297
+2016,C23,Sorting Residues & Sludges,6119,Non-metallic minerals,326299
+2016,C24_C25,"Chemical, Solvent & Medical Waste",15097,Basic & fabricated metals,3347
+2016,C24_C25,Combustion & Treatment Minerals,8248,Basic & fabricated metals,73738
+2016,C24_C25,"Food, Animal & Vegetal Organics",151,Basic & fabricated metals,316003
+2016,C24_C25,Household & Mixed Waste,144600,Basic & fabricated metals,48107
+2016,C24_C25,Metals & E-Waste / Vehicles,40494,Basic & fabricated metals,205712
+2016,C24_C25,Mineral C&D Waste,225,Basic & fabricated metals,426284
+2016,C24_C25,Other Mineral & Quarry Waste,1397314,Basic & fabricated metals,858537
+2016,C24_C25,"Recyclables (Paper, Wood, Plastic, Glass)",10616,Basic & fabricated metals,289071
+2016,C24_C25,Soils & Stones,2,Basic & fabricated metals,4117297
+2016,C24_C25,Sorting Residues & Sludges,1920,Basic & fabricated metals,326299
+2016,C26-C30,"Chemical, Solvent & Medical Waste",55287,Electronics & transport equipment,3347
+2016,C26-C30,Combustion & Treatment Minerals,22,Electronics & transport equipment,73738
+2016,C26-C30,"Food, Animal & Vegetal Organics",2315,Electronics & transport equipment,316003
+2016,C26-C30,Household & Mixed Waste,32608,Electronics & transport equipment,48107
+2016,C26-C30,Metals & E-Waste / Vehicles,37574,Electronics & transport equipment,205712
+2016,C26-C30,Mineral C&D Waste,28079,Electronics & transport equipment,426284
+2016,C26-C30,Other Mineral & Quarry Waste,425,Electronics & transport equipment,858537
+2016,C26-C30,"Recyclables (Paper, Wood, Plastic, Glass)",11632,Electronics & transport equipment,289071
+2016,C26-C30,Soils & Stones,148600,Electronics & transport equipment,4117297
+2016,C26-C30,Sorting Residues & Sludges,5010,Electronics & transport equipment,326299
+2016,C31-C33,"Chemical, Solvent & Medical Waste",18128,Furniture & other manufacturing,3347
+2016,C31-C33,Combustion & Treatment Minerals,0,Furniture & other manufacturing,73738
+2016,C31-C33,"Food, Animal & Vegetal Organics",1088,Furniture & other manufacturing,316003
+2016,C31-C33,Household & Mixed Waste,58942,Furniture & other manufacturing,48107
+2016,C31-C33,Metals & E-Waste / Vehicles,1747,Furniture & other manufacturing,205712
+2016,C31-C33,Mineral C&D Waste,578,Furniture & other manufacturing,426284
+2016,C31-C33,Other Mineral & Quarry Waste,3888,Furniture & other manufacturing,858537
+2016,C31-C33,"Recyclables (Paper, Wood, Plastic, Glass)",86476,Furniture & other manufacturing,289071
+2016,C31-C33,Soils & Stones,20,Furniture & other manufacturing,4117297
+2016,C31-C33,Sorting Residues & Sludges,3743,Furniture & other manufacturing,326299
+2016,D,"Chemical, Solvent & Medical Waste",1335,"Electricity, gas & steam",3347
+2016,D,Combustion & Treatment Minerals,302885,"Electricity, gas & steam",73738
+2016,D,"Food, Animal & Vegetal Organics",117,"Electricity, gas & steam",316003
+2016,D,Household & Mixed Waste,5094,"Electricity, gas & steam",48107
+2016,D,Metals & E-Waste / Vehicles,1075,"Electricity, gas & steam",205712
+2016,D,Mineral C&D Waste,191,"Electricity, gas & steam",426284
+2016,D,Other Mineral & Quarry Waste,12,"Electricity, gas & steam",858537
+2016,D,"Recyclables (Paper, Wood, Plastic, Glass)",252,"Electricity, gas & steam",289071
+2016,D,Soils & Stones,5213,"Electricity, gas & steam",4117297
+2016,D,Sorting Residues & Sludges,763,"Electricity, gas & steam",326299
+2016,E36_E37_E39,"Chemical, Solvent & Medical Waste",311,Water supply & remediation,3347
+2016,E36_E37_E39,Combustion & Treatment Minerals,0,Water supply & remediation,73738
+2016,E36_E37_E39,"Food, Animal & Vegetal Organics",2203,Water supply & remediation,316003
+2016,E36_E37_E39,Household & Mixed Waste,21507,Water supply & remediation,48107
+2016,E36_E37_E39,Metals & E-Waste / Vehicles,7,Water supply & remediation,205712
+2016,E36_E37_E39,Mineral C&D Waste,127,Water supply & remediation,426284
+2016,E36_E37_E39,Other Mineral & Quarry Waste,3349,Water supply & remediation,858537
+2016,E36_E37_E39,"Recyclables (Paper, Wood, Plastic, Glass)",2205,Water supply & remediation,289071
+2016,E36_E37_E39,Soils & Stones,0,Water supply & remediation,4117297
+2016,E36_E37_E39,Sorting Residues & Sludges,87366,Water supply & remediation,326299
+2016,E38,"Chemical, Solvent & Medical Waste",1843,Waste collection & treatment,3347
+2016,E38,Combustion & Treatment Minerals,100423,Waste collection & treatment,73738
+2016,E38,"Food, Animal & Vegetal Organics",51,Waste collection & treatment,316003
+2016,E38,Household & Mixed Waste,2061,Waste collection & treatment,48107
+2016,E38,Metals & E-Waste / Vehicles,239302,Waste collection & treatment,205712
+2016,E38,Mineral C&D Waste,747,Waste collection & treatment,426284
+2016,E38,Other Mineral & Quarry Waste,0,Waste collection & treatment,858537
+2016,E38,"Recyclables (Paper, Wood, Plastic, Glass)",212691,Waste collection & treatment,289071
+2016,E38,Soils & Stones,181,Waste collection & treatment,4117297
+2016,E38,Sorting Residues & Sludges,1408851,Waste collection & treatment,326299
+2016,EP_HH,"Chemical, Solvent & Medical Waste",1823,Households,3347
+2016,EP_HH,Combustion & Treatment Minerals,0,Households,73738
+2016,EP_HH,"Food, Animal & Vegetal Organics",136568,Households,316003
+2016,EP_HH,Household & Mixed Waste,1163990,Households,48107
+2016,EP_HH,Metals & E-Waste / Vehicles,75151,Households,205712
+2016,EP_HH,Mineral C&D Waste,9676,Households,426284
+2016,EP_HH,Other Mineral & Quarry Waste,0,Households,858537
+2016,EP_HH,"Recyclables (Paper, Wood, Plastic, Glass)",124548,Households,289071
+2016,EP_HH,Soils & Stones,1788,Households,4117297
+2016,EP_HH,Sorting Residues & Sludges,0,Households,326299
+2016,F,"Chemical, Solvent & Medical Waste",9967,Construction,3347
+2016,F,Combustion & Treatment Minerals,0,Construction,73738
+2016,F,"Food, Animal & Vegetal Organics",696,Construction,316003
+2016,F,Household & Mixed Waste,42394,Construction,48107
+2016,F,Metals & E-Waste / Vehicles,20037,Construction,205712
+2016,F,Mineral C&D Waste,135619,Construction,426284
+2016,F,Other Mineral & Quarry Waste,46464,Construction,858537
+2016,F,"Recyclables (Paper, Wood, Plastic, Glass)",19306,Construction,289071
+2016,F,Soils & Stones,1245552,Construction,4117297
+2016,F,Sorting Residues & Sludges,1555,Construction,326299
+2016,G-U_X_G4677,"Chemical, Solvent & Medical Waste",80765,Services,3347
+2016,G-U_X_G4677,Combustion & Treatment Minerals,150,Services,73738
+2016,G-U_X_G4677,"Food, Animal & Vegetal Organics",444780,Services,316003
+2016,G-U_X_G4677,Household & Mixed Waste,601542,Services,48107
+2016,G-U_X_G4677,Metals & E-Waste / Vehicles,195178,Services,205712
+2016,G-U_X_G4677,Mineral C&D Waste,38271,Services,426284
+2016,G-U_X_G4677,Other Mineral & Quarry Waste,12737,Services,858537
+2016,G-U_X_G4677,"Recyclables (Paper, Wood, Plastic, Glass)",569787,Services,289071
+2016,G-U_X_G4677,Soils & Stones,62643,Services,4117297
+2016,G-U_X_G4677,Sorting Residues & Sludges,21249,Services,326299
+2016,TOTAL_HH,"Chemical, Solvent & Medical Waste",345835,All Activities & Households (National),3347
+2016,TOTAL_HH,Combustion & Treatment Minerals,523731,All Activities & Households (National),73738
+2016,TOTAL_HH,"Food, Animal & Vegetal Organics",1219719,All Activities & Households (National),316003
+2016,TOTAL_HH,Household & Mixed Waste,2397147,All Activities & Households (National),48107
+2016,TOTAL_HH,Metals & E-Waste / Vehicles,646262,All Activities & Households (National),205712
+2016,TOTAL_HH,Mineral C&D Waste,261254,All Activities & Households (National),426284
+2016,TOTAL_HH,Other Mineral & Quarry Waste,3827361,All Activities & Households (National),858537
+2016,TOTAL_HH,"Recyclables (Paper, Wood, Plastic, Glass)",1301285,All Activities & Households (National),289071
+2016,TOTAL_HH,Soils & Stones,2771311,All Activities & Households (National),4117297
+2016,TOTAL_HH,Sorting Residues & Sludges,1957784,All Activities & Households (National),326299
+2018,A,"Chemical, Solvent & Medical Waste",25997,"Agriculture, forestry & fishing",6908
+2018,A,Combustion & Treatment Minerals,0,"Agriculture, forestry & fishing",44744
+2018,A,"Food, Animal & Vegetal Organics",205353,"Agriculture, forestry & fishing",347288
+2018,A,Household & Mixed Waste,3368,"Agriculture, forestry & fishing",119082
+2018,A,Metals & E-Waste / Vehicles,6523,"Agriculture, forestry & fishing",295673
+2018,A,Mineral C&D Waste,0,"Agriculture, forestry & fishing",873680
+2018,A,Other Mineral & Quarry Waste,0,"Agriculture, forestry & fishing",800426
+2018,A,"Recyclables (Paper, Wood, Plastic, Glass)",55624,"Agriculture, forestry & fishing",286482
+2018,A,Soils & Stones,0,"Agriculture, forestry & fishing",4534435
+2018,A,Sorting Residues & Sludges,0,"Agriculture, forestry & fishing",353017
+2018,B,"Chemical, Solvent & Medical Waste",815,Mining & quarrying,6908
+2018,B,Combustion & Treatment Minerals,0,Mining & quarrying,44744
+2018,B,"Food, Animal & Vegetal Organics",31,Mining & quarrying,347288
+2018,B,Household & Mixed Waste,3850,Mining & quarrying,119082
+2018,B,Metals & E-Waste / Vehicles,2609,Mining & quarrying,295673
+2018,B,Mineral C&D Waste,63476,Mining & quarrying,873680
+2018,B,Other Mineral & Quarry Waste,1904032,Mining & quarrying,800426
+2018,B,"Recyclables (Paper, Wood, Plastic, Glass)",1120,Mining & quarrying,286482
+2018,B,Soils & Stones,59,Mining & quarrying,4534435
+2018,B,Sorting Residues & Sludges,5604,Mining & quarrying,353017
+2018,C10-C12,"Chemical, Solvent & Medical Waste",14604,"Food, beverages & tobacco",6908
+2018,C10-C12,Combustion & Treatment Minerals,12913,"Food, beverages & tobacco",44744
+2018,C10-C12,"Food, Animal & Vegetal Organics",488730,"Food, beverages & tobacco",347288
+2018,C10-C12,Household & Mixed Waste,155055,"Food, beverages & tobacco",119082
+2018,C10-C12,Metals & E-Waste / Vehicles,5472,"Food, beverages & tobacco",295673
+2018,C10-C12,Mineral C&D Waste,6203,"Food, beverages & tobacco",873680
+2018,C10-C12,Other Mineral & Quarry Waste,2196,"Food, beverages & tobacco",800426
+2018,C10-C12,"Recyclables (Paper, Wood, Plastic, Glass)",22609,"Food, beverages & tobacco",286482
+2018,C10-C12,Soils & Stones,1558,"Food, beverages & tobacco",4534435
+2018,C10-C12,Sorting Residues & Sludges,114696,"Food, beverages & tobacco",353017
+2018,C20-C22,"Chemical, Solvent & Medical Waste",158068,"Chemicals, pharma, rubber & plastics",6908
+2018,C20-C22,Combustion & Treatment Minerals,39,"Chemicals, pharma, rubber & plastics",44744
+2018,C20-C22,"Food, Animal & Vegetal Organics",1835,"Chemicals, pharma, rubber & plastics",347288
+2018,C20-C22,Household & Mixed Waste,25414,"Chemicals, pharma, rubber & plastics",119082
+2018,C20-C22,Metals & E-Waste / Vehicles,5023,"Chemicals, pharma, rubber & plastics",295673
+2018,C20-C22,Mineral C&D Waste,6125,"Chemicals, pharma, rubber & plastics",873680
+2018,C20-C22,Other Mineral & Quarry Waste,141,"Chemicals, pharma, rubber & plastics",800426
+2018,C20-C22,"Recyclables (Paper, Wood, Plastic, Glass)",25101,"Chemicals, pharma, rubber & plastics",286482
+2018,C20-C22,Soils & Stones,1176,"Chemicals, pharma, rubber & plastics",4534435
+2018,C20-C22,Sorting Residues & Sludges,9563,"Chemicals, pharma, rubber & plastics",353017
+2018,C23,"Chemical, Solvent & Medical Waste",1233,Non-metallic minerals,6908
+2018,C23,Combustion & Treatment Minerals,60,Non-metallic minerals,44744
+2018,C23,"Food, Animal & Vegetal Organics",65,Non-metallic minerals,347288
+2018,C23,Household & Mixed Waste,12958,Non-metallic minerals,119082
+2018,C23,Metals & E-Waste / Vehicles,4454,Non-metallic minerals,295673
+2018,C23,Mineral C&D Waste,9350,Non-metallic minerals,873680
+2018,C23,Other Mineral & Quarry Waste,2596,Non-metallic minerals,800426
+2018,C23,"Recyclables (Paper, Wood, Plastic, Glass)",3150,Non-metallic minerals,286482
+2018,C23,Soils & Stones,346818,Non-metallic minerals,4534435
+2018,C23,Sorting Residues & Sludges,997,Non-metallic minerals,353017
+2018,C24_C25,"Chemical, Solvent & Medical Waste",17732,Basic & fabricated metals,6908
+2018,C24_C25,Combustion & Treatment Minerals,2727,Basic & fabricated metals,44744
+2018,C24_C25,"Food, Animal & Vegetal Organics",527,Basic & fabricated metals,347288
+2018,C24_C25,Household & Mixed Waste,130040,Basic & fabricated metals,119082
+2018,C24_C25,Metals & E-Waste / Vehicles,31809,Basic & fabricated metals,295673
+2018,C24_C25,Mineral C&D Waste,364,Basic & fabricated metals,873680
+2018,C24_C25,Other Mineral & Quarry Waste,1389041,Basic & fabricated metals,800426
+2018,C24_C25,"Recyclables (Paper, Wood, Plastic, Glass)",7234,Basic & fabricated metals,286482
+2018,C24_C25,Soils & Stones,0,Basic & fabricated metals,4534435
+2018,C24_C25,Sorting Residues & Sludges,2629,Basic & fabricated metals,353017
+2018,C26-C30,"Chemical, Solvent & Medical Waste",44507,Electronics & transport equipment,6908
+2018,C26-C30,Combustion & Treatment Minerals,15,Electronics & transport equipment,44744
+2018,C26-C30,"Food, Animal & Vegetal Organics",4474,Electronics & transport equipment,347288
+2018,C26-C30,Household & Mixed Waste,22695,Electronics & transport equipment,119082
+2018,C26-C30,Metals & E-Waste / Vehicles,47598,Electronics & transport equipment,295673
+2018,C26-C30,Mineral C&D Waste,162,Electronics & transport equipment,873680
+2018,C26-C30,Other Mineral & Quarry Waste,299,Electronics & transport equipment,800426
+2018,C26-C30,"Recyclables (Paper, Wood, Plastic, Glass)",15908,Electronics & transport equipment,286482
+2018,C26-C30,Soils & Stones,4000,Electronics & transport equipment,4534435
+2018,C26-C30,Sorting Residues & Sludges,1851,Electronics & transport equipment,353017
+2018,C31-C33,"Chemical, Solvent & Medical Waste",24052,Furniture & other manufacturing,6908
+2018,C31-C33,Combustion & Treatment Minerals,14,Furniture & other manufacturing,44744
+2018,C31-C33,"Food, Animal & Vegetal Organics",1056,Furniture & other manufacturing,347288
+2018,C31-C33,Household & Mixed Waste,29554,Furniture & other manufacturing,119082
+2018,C31-C33,Metals & E-Waste / Vehicles,19652,Furniture & other manufacturing,295673
+2018,C31-C33,Mineral C&D Waste,19,Furniture & other manufacturing,873680
+2018,C31-C33,Other Mineral & Quarry Waste,2617,Furniture & other manufacturing,800426
+2018,C31-C33,"Recyclables (Paper, Wood, Plastic, Glass)",36890,Furniture & other manufacturing,286482
+2018,C31-C33,Soils & Stones,0,Furniture & other manufacturing,4534435
+2018,C31-C33,Sorting Residues & Sludges,1318,Furniture & other manufacturing,353017
+2018,D,"Chemical, Solvent & Medical Waste",1388,"Electricity, gas & steam",6908
+2018,D,Combustion & Treatment Minerals,134940,"Electricity, gas & steam",44744
+2018,D,"Food, Animal & Vegetal Organics",42,"Electricity, gas & steam",347288
+2018,D,Household & Mixed Waste,5718,"Electricity, gas & steam",119082
+2018,D,Metals & E-Waste / Vehicles,1011,"Electricity, gas & steam",295673
+2018,D,Mineral C&D Waste,42,"Electricity, gas & steam",873680
+2018,D,Other Mineral & Quarry Waste,16,"Electricity, gas & steam",800426
+2018,D,"Recyclables (Paper, Wood, Plastic, Glass)",275,"Electricity, gas & steam",286482
+2018,D,Soils & Stones,2983,"Electricity, gas & steam",4534435
+2018,D,Sorting Residues & Sludges,3353,"Electricity, gas & steam",353017
+2018,E36_E37_E39,"Chemical, Solvent & Medical Waste",606,Water supply & remediation,6908
+2018,E36_E37_E39,Combustion & Treatment Minerals,0,Water supply & remediation,44744
+2018,E36_E37_E39,"Food, Animal & Vegetal Organics",13122,Water supply & remediation,347288
+2018,E36_E37_E39,Household & Mixed Waste,10258,Water supply & remediation,119082
+2018,E36_E37_E39,Metals & E-Waste / Vehicles,2,Water supply & remediation,295673
+2018,E36_E37_E39,Mineral C&D Waste,0,Water supply & remediation,873680
+2018,E36_E37_E39,Other Mineral & Quarry Waste,5169,Water supply & remediation,800426
+2018,E36_E37_E39,"Recyclables (Paper, Wood, Plastic, Glass)",40,Water supply & remediation,286482
+2018,E36_E37_E39,Soils & Stones,0,Water supply & remediation,4534435
+2018,E36_E37_E39,Sorting Residues & Sludges,262466,Water supply & remediation,353017
+2018,E38,"Chemical, Solvent & Medical Waste",3229,Waste collection & treatment,6908
+2018,E38,Combustion & Treatment Minerals,149266,Waste collection & treatment,44744
+2018,E38,"Food, Animal & Vegetal Organics",27,Waste collection & treatment,347288
+2018,E38,Household & Mixed Waste,1609,Waste collection & treatment,119082
+2018,E38,Metals & E-Waste / Vehicles,102161,Waste collection & treatment,295673
+2018,E38,Mineral C&D Waste,8790,Waste collection & treatment,873680
+2018,E38,Other Mineral & Quarry Waste,0,Waste collection & treatment,800426
+2018,E38,"Recyclables (Paper, Wood, Plastic, Glass)",293495,Waste collection & treatment,286482
+2018,E38,Soils & Stones,250,Waste collection & treatment,4534435
+2018,E38,Sorting Residues & Sludges,643066,Waste collection & treatment,353017
+2018,EP_HH,"Chemical, Solvent & Medical Waste",1932,Households,6908
+2018,EP_HH,Combustion & Treatment Minerals,0,Households,44744
+2018,EP_HH,"Food, Animal & Vegetal Organics",158920,Households,347288
+2018,EP_HH,Household & Mixed Waste,1164804,Households,119082
+2018,EP_HH,Metals & E-Waste / Vehicles,124682,Households,295673
+2018,EP_HH,Mineral C&D Waste,10856,Households,873680
+2018,EP_HH,Other Mineral & Quarry Waste,0,Households,800426
+2018,EP_HH,"Recyclables (Paper, Wood, Plastic, Glass)",129680,Households,286482
+2018,EP_HH,Soils & Stones,42,Households,4534435
+2018,EP_HH,Sorting Residues & Sludges,304,Households,353017
+2018,F,"Chemical, Solvent & Medical Waste",13079,Construction,6908
+2018,F,Combustion & Treatment Minerals,0,Construction,44744
+2018,F,"Food, Animal & Vegetal Organics",1478,Construction,347288
+2018,F,Household & Mixed Waste,60579,Construction,119082
+2018,F,Metals & E-Waste / Vehicles,5290,Construction,295673
+2018,F,Mineral C&D Waste,565113,Construction,873680
+2018,F,Other Mineral & Quarry Waste,1119,Construction,800426
+2018,F,"Recyclables (Paper, Wood, Plastic, Glass)",20786,Construction,286482
+2018,F,Soils & Stones,1235075,Construction,4534435
+2018,F,Sorting Residues & Sludges,539,Construction,353017
+2018,G-U_X_G4677,"Chemical, Solvent & Medical Waste",108142,Services,6908
+2018,G-U_X_G4677,Combustion & Treatment Minerals,118,Services,44744
+2018,G-U_X_G4677,"Food, Animal & Vegetal Organics",292728,Services,347288
+2018,G-U_X_G4677,Household & Mixed Waste,1022786,Services,119082
+2018,G-U_X_G4677,Metals & E-Waste / Vehicles,68319,Services,295673
+2018,G-U_X_G4677,Mineral C&D Waste,35644,Services,873680
+2018,G-U_X_G4677,Other Mineral & Quarry Waste,5633,Services,800426
+2018,G-U_X_G4677,"Recyclables (Paper, Wood, Plastic, Glass)",627674,Services,286482
+2018,G-U_X_G4677,Soils & Stones,531728,Services,4534435
+2018,G-U_X_G4677,Sorting Residues & Sludges,428888,Services,353017
+2018,TOTAL_HH,"Chemical, Solvent & Medical Waste",425443,All Activities & Households (National),6908
+2018,TOTAL_HH,Combustion & Treatment Minerals,306900,All Activities & Households (National),44744
+2018,TOTAL_HH,"Food, Animal & Vegetal Organics",1169149,All Activities & Households (National),347288
+2018,TOTAL_HH,Household & Mixed Waste,2705326,All Activities & Households (National),119082
+2018,TOTAL_HH,Metals & E-Waste / Vehicles,427787,All Activities & Households (National),295673
+2018,TOTAL_HH,Mineral C&D Waste,708153,All Activities & Households (National),873680
+2018,TOTAL_HH,Other Mineral & Quarry Waste,3312913,All Activities & Households (National),800426
+2018,TOTAL_HH,"Recyclables (Paper, Wood, Plastic, Glass)",1321628,All Activities & Households (National),286482
+2018,TOTAL_HH,Soils & Stones,2123689,All Activities & Households (National),4534435
+2018,TOTAL_HH,Sorting Residues & Sludges,1485769,All Activities & Households (National),353017
+2020,A,"Chemical, Solvent & Medical Waste",26413,"Agriculture, forestry & fishing",4904
+2020,A,Combustion & Treatment Minerals,0,"Agriculture, forestry & fishing",44389
+2020,A,"Food, Animal & Vegetal Organics",190804,"Agriculture, forestry & fishing",385623
+2020,A,Household & Mixed Waste,3564,"Agriculture, forestry & fishing",32363
+2020,A,Metals & E-Waste / Vehicles,6964,"Agriculture, forestry & fishing",278853
+2020,A,Mineral C&D Waste,0,"Agriculture, forestry & fishing",528027
+2020,A,Other Mineral & Quarry Waste,0,"Agriculture, forestry & fishing",122669
+2020,A,"Recyclables (Paper, Wood, Plastic, Glass)",47669,"Agriculture, forestry & fishing",275526
+2020,A,Soils & Stones,0,"Agriculture, forestry & fishing",6970315
+2020,A,Sorting Residues & Sludges,0,"Agriculture, forestry & fishing",124823
+2020,B,"Chemical, Solvent & Medical Waste",745,Mining & quarrying,4904
+2020,B,Combustion & Treatment Minerals,0,Mining & quarrying,44389
+2020,B,"Food, Animal & Vegetal Organics",16,Mining & quarrying,385623
+2020,B,Household & Mixed Waste,1931,Mining & quarrying,32363
+2020,B,Metals & E-Waste / Vehicles,7711,Mining & quarrying,278853
+2020,B,Mineral C&D Waste,15561,Mining & quarrying,528027
+2020,B,Other Mineral & Quarry Waste,1406421,Mining & quarrying,122669
+2020,B,"Recyclables (Paper, Wood, Plastic, Glass)",1980,Mining & quarrying,275526
+2020,B,Soils & Stones,78113,Mining & quarrying,6970315
+2020,B,Sorting Residues & Sludges,5121,Mining & quarrying,124823
+2020,C10-C12,"Chemical, Solvent & Medical Waste",5090,"Food, beverages & tobacco",4904
+2020,C10-C12,Combustion & Treatment Minerals,0,"Food, beverages & tobacco",44389
+2020,C10-C12,"Food, Animal & Vegetal Organics",516904,"Food, beverages & tobacco",385623
+2020,C10-C12,Household & Mixed Waste,95506,"Food, beverages & tobacco",32363
+2020,C10-C12,Metals & E-Waste / Vehicles,7136,"Food, beverages & tobacco",278853
+2020,C10-C12,Mineral C&D Waste,5839,"Food, beverages & tobacco",528027
+2020,C10-C12,Other Mineral & Quarry Waste,112,"Food, beverages & tobacco",122669
+2020,C10-C12,"Recyclables (Paper, Wood, Plastic, Glass)",32334,"Food, beverages & tobacco",275526
+2020,C10-C12,Soils & Stones,7145,"Food, beverages & tobacco",6970315
+2020,C10-C12,Sorting Residues & Sludges,76491,"Food, beverages & tobacco",124823
+2020,C20-C22,"Chemical, Solvent & Medical Waste",194239,"Chemicals, pharma, rubber & plastics",4904
+2020,C20-C22,Combustion & Treatment Minerals,38,"Chemicals, pharma, rubber & plastics",44389
+2020,C20-C22,"Food, Animal & Vegetal Organics",1483,"Chemicals, pharma, rubber & plastics",385623
+2020,C20-C22,Household & Mixed Waste,42946,"Chemicals, pharma, rubber & plastics",32363
+2020,C20-C22,Metals & E-Waste / Vehicles,4440,"Chemicals, pharma, rubber & plastics",278853
+2020,C20-C22,Mineral C&D Waste,7641,"Chemicals, pharma, rubber & plastics",528027
+2020,C20-C22,Other Mineral & Quarry Waste,351,"Chemicals, pharma, rubber & plastics",122669
+2020,C20-C22,"Recyclables (Paper, Wood, Plastic, Glass)",129463,"Chemicals, pharma, rubber & plastics",275526
+2020,C20-C22,Soils & Stones,4266,"Chemicals, pharma, rubber & plastics",6970315
+2020,C20-C22,Sorting Residues & Sludges,16141,"Chemicals, pharma, rubber & plastics",124823
+2020,C23,"Chemical, Solvent & Medical Waste",1916,Non-metallic minerals,4904
+2020,C23,Combustion & Treatment Minerals,0,Non-metallic minerals,44389
+2020,C23,"Food, Animal & Vegetal Organics",71,Non-metallic minerals,385623
+2020,C23,Household & Mixed Waste,9433,Non-metallic minerals,32363
+2020,C23,Metals & E-Waste / Vehicles,3233,Non-metallic minerals,278853
+2020,C23,Mineral C&D Waste,6691,Non-metallic minerals,528027
+2020,C23,Other Mineral & Quarry Waste,15626,Non-metallic minerals,122669
+2020,C23,"Recyclables (Paper, Wood, Plastic, Glass)",6918,Non-metallic minerals,275526
+2020,C23,Soils & Stones,300386,Non-metallic minerals,6970315
+2020,C23,Sorting Residues & Sludges,540,Non-metallic minerals,124823
+2020,C24_C25,"Chemical, Solvent & Medical Waste",29381,Basic & fabricated metals,4904
+2020,C24_C25,Combustion & Treatment Minerals,4396,Basic & fabricated metals,44389
+2020,C24_C25,"Food, Animal & Vegetal Organics",162,Basic & fabricated metals,385623
+2020,C24_C25,Household & Mixed Waste,185746,Basic & fabricated metals,32363
+2020,C24_C25,Metals & E-Waste / Vehicles,47002,Basic & fabricated metals,278853
+2020,C24_C25,Mineral C&D Waste,731,Basic & fabricated metals,528027
+2020,C24_C25,Other Mineral & Quarry Waste,1435394,Basic & fabricated metals,122669
+2020,C24_C25,"Recyclables (Paper, Wood, Plastic, Glass)",4971,Basic & fabricated metals,275526
+2020,C24_C25,Soils & Stones,21,Basic & fabricated metals,6970315
+2020,C24_C25,Sorting Residues & Sludges,191,Basic & fabricated metals,124823
+2020,C26-C30,"Chemical, Solvent & Medical Waste",79244,Electronics & transport equipment,4904
+2020,C26-C30,Combustion & Treatment Minerals,39,Electronics & transport equipment,44389
+2020,C26-C30,"Food, Animal & Vegetal Organics",22807,Electronics & transport equipment,385623
+2020,C26-C30,Household & Mixed Waste,18690,Electronics & transport equipment,32363
+2020,C26-C30,Metals & E-Waste / Vehicles,11320,Electronics & transport equipment,278853
+2020,C26-C30,Mineral C&D Waste,112,Electronics & transport equipment,528027
+2020,C26-C30,Other Mineral & Quarry Waste,7278,Electronics & transport equipment,122669
+2020,C26-C30,"Recyclables (Paper, Wood, Plastic, Glass)",8743,Electronics & transport equipment,275526
+2020,C26-C30,Soils & Stones,9,Electronics & transport equipment,6970315
+2020,C26-C30,Sorting Residues & Sludges,2657,Electronics & transport equipment,124823
+2020,C31-C33,"Chemical, Solvent & Medical Waste",24572,Furniture & other manufacturing,4904
+2020,C31-C33,Combustion & Treatment Minerals,0,Furniture & other manufacturing,44389
+2020,C31-C33,"Food, Animal & Vegetal Organics",1315,Furniture & other manufacturing,385623
+2020,C31-C33,Household & Mixed Waste,18246,Furniture & other manufacturing,32363
+2020,C31-C33,Metals & E-Waste / Vehicles,1569,Furniture & other manufacturing,278853
+2020,C31-C33,Mineral C&D Waste,2256,Furniture & other manufacturing,528027
+2020,C31-C33,Other Mineral & Quarry Waste,3070,Furniture & other manufacturing,122669
+2020,C31-C33,"Recyclables (Paper, Wood, Plastic, Glass)",99377,Furniture & other manufacturing,275526
+2020,C31-C33,Soils & Stones,5623,Furniture & other manufacturing,6970315
+2020,C31-C33,Sorting Residues & Sludges,533,Furniture & other manufacturing,124823
+2020,D,"Chemical, Solvent & Medical Waste",1285,"Electricity, gas & steam",4904
+2020,D,Combustion & Treatment Minerals,114784,"Electricity, gas & steam",44389
+2020,D,"Food, Animal & Vegetal Organics",58,"Electricity, gas & steam",385623
+2020,D,Household & Mixed Waste,2321,"Electricity, gas & steam",32363
+2020,D,Metals & E-Waste / Vehicles,366,"Electricity, gas & steam",278853
+2020,D,Mineral C&D Waste,2,"Electricity, gas & steam",528027
+2020,D,Other Mineral & Quarry Waste,908,"Electricity, gas & steam",122669
+2020,D,"Recyclables (Paper, Wood, Plastic, Glass)",90,"Electricity, gas & steam",275526
+2020,D,Soils & Stones,37551,"Electricity, gas & steam",6970315
+2020,D,Sorting Residues & Sludges,729,"Electricity, gas & steam",124823
+2020,E36_E37_E39,"Chemical, Solvent & Medical Waste",423,Water supply & remediation,4904
+2020,E36_E37_E39,Combustion & Treatment Minerals,0,Water supply & remediation,44389
+2020,E36_E37_E39,"Food, Animal & Vegetal Organics",1047,Water supply & remediation,385623
+2020,E36_E37_E39,Household & Mixed Waste,14044,Water supply & remediation,32363
+2020,E36_E37_E39,Metals & E-Waste / Vehicles,16,Water supply & remediation,278853
+2020,E36_E37_E39,Mineral C&D Waste,1105,Water supply & remediation,528027
+2020,E36_E37_E39,Other Mineral & Quarry Waste,25250,Water supply & remediation,122669
+2020,E36_E37_E39,"Recyclables (Paper, Wood, Plastic, Glass)",143,Water supply & remediation,275526
+2020,E36_E37_E39,Soils & Stones,33918,Water supply & remediation,6970315
+2020,E36_E37_E39,Sorting Residues & Sludges,155101,Water supply & remediation,124823
+2020,E38,"Chemical, Solvent & Medical Waste",5291,Waste collection & treatment,4904
+2020,E38,Combustion & Treatment Minerals,328317,Waste collection & treatment,44389
+2020,E38,"Food, Animal & Vegetal Organics",4620,Waste collection & treatment,385623
+2020,E38,Household & Mixed Waste,62772,Waste collection & treatment,32363
+2020,E38,Metals & E-Waste / Vehicles,166748,Waste collection & treatment,278853
+2020,E38,Mineral C&D Waste,32685,Waste collection & treatment,528027
+2020,E38,Other Mineral & Quarry Waste,11,Waste collection & treatment,122669
+2020,E38,"Recyclables (Paper, Wood, Plastic, Glass)",351061,Waste collection & treatment,275526
+2020,E38,Soils & Stones,2,Waste collection & treatment,6970315
+2020,E38,Sorting Residues & Sludges,855360,Waste collection & treatment,124823
+2020,EP_HH,"Chemical, Solvent & Medical Waste",2713,Households,4904
+2020,EP_HH,Combustion & Treatment Minerals,0,Households,44389
+2020,EP_HH,"Food, Animal & Vegetal Organics",210034,Households,385623
+2020,EP_HH,Household & Mixed Waste,1401148,Households,32363
+2020,EP_HH,Metals & E-Waste / Vehicles,126400,Households,278853
+2020,EP_HH,Mineral C&D Waste,14494,Households,528027
+2020,EP_HH,Other Mineral & Quarry Waste,0,Households,122669
+2020,EP_HH,"Recyclables (Paper, Wood, Plastic, Glass)",183016,Households,275526
+2020,EP_HH,Soils & Stones,3936,Households,6970315
+2020,EP_HH,Sorting Residues & Sludges,0,Households,124823
+2020,F,"Chemical, Solvent & Medical Waste",5308,Construction,4904
+2020,F,Combustion & Treatment Minerals,0,Construction,44389
+2020,F,"Food, Animal & Vegetal Organics",1530,Construction,385623
+2020,F,Household & Mixed Waste,70861,Construction,32363
+2020,F,Metals & E-Waste / Vehicles,228610,Construction,278853
+2020,F,Mineral C&D Waste,1307749,Construction,528027
+2020,F,Other Mineral & Quarry Waste,15905,Construction,122669
+2020,F,"Recyclables (Paper, Wood, Plastic, Glass)",42681,Construction,275526
+2020,F,Soils & Stones,3601568,Construction,6970315
+2020,F,Sorting Residues & Sludges,4043,Construction,124823
+2020,G-U_X_G4677,"Chemical, Solvent & Medical Waste",41028,Services,4904
+2020,G-U_X_G4677,Combustion & Treatment Minerals,1529,Services,44389
+2020,G-U_X_G4677,"Food, Animal & Vegetal Organics",167579,Services,385623
+2020,G-U_X_G4677,Household & Mixed Waste,436504,Services,32363
+2020,G-U_X_G4677,Metals & E-Waste / Vehicles,95439,Services,278853
+2020,G-U_X_G4677,Mineral C&D Waste,102465,Services,528027
+2020,G-U_X_G4677,Other Mineral & Quarry Waste,13129,Services,122669
+2020,G-U_X_G4677,"Recyclables (Paper, Wood, Plastic, Glass)",246430,Services,275526
+2020,G-U_X_G4677,Soils & Stones,240350,Services,6970315
+2020,G-U_X_G4677,Sorting Residues & Sludges,15733,Services,124823
+2020,TOTAL_HH,"Chemical, Solvent & Medical Waste",424019,All Activities & Households (National),4904
+2020,TOTAL_HH,Combustion & Treatment Minerals,456626,All Activities & Households (National),44389
+2020,TOTAL_HH,"Food, Animal & Vegetal Organics",1118745,All Activities & Households (National),385623
+2020,TOTAL_HH,Household & Mixed Waste,2408420,All Activities & Households (National),32363
+2020,TOTAL_HH,Metals & E-Waste / Vehicles,709490,All Activities & Households (National),278853
+2020,TOTAL_HH,Mineral C&D Waste,1500689,All Activities & Households (National),528027
+2020,TOTAL_HH,Other Mineral & Quarry Waste,2923456,All Activities & Households (National),122669
+2020,TOTAL_HH,"Recyclables (Paper, Wood, Plastic, Glass)",1202035,All Activities & Households (National),275526
+2020,TOTAL_HH,Soils & Stones,4312901,All Activities & Households (National),6970315
+2020,TOTAL_HH,Sorting Residues & Sludges,1135649,All Activities & Households (National),124823

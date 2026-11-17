@@ -1,0 +1,79 @@
+year,region,op_code,operation,facilities
+2004,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",67
+2004,Ireland,DSP_I,Incineration Disposal (D10),6
+2004,Ireland,RCV_E,Energy Recovery (R1),3
+2004,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),73
+2006,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",69
+2006,Ireland,DSP_I,Incineration Disposal (D10),5
+2006,Ireland,RCV_E,Energy Recovery (R1),9
+2006,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),1166
+2008,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",66
+2008,Ireland,DSP_I,Incineration Disposal (D10),6
+2008,Ireland,RCV_E,Energy Recovery (R1),19
+2008,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),1593
+2010,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",99
+2010,Ireland,DSP_I,Incineration Disposal (D10),13
+2010,Ireland,RCV_E,Energy Recovery (R1),28
+2010,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),1569
+2010,Ireland,RCV_R,Material Recycling Facilities,1033
+2010,Ireland,RCV_B,Soil & Mineral Backfilling Sites,536
+2012,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",35
+2012,Ireland,DSP_I,Incineration Disposal (D10),6
+2012,Ireland,RCV_E,Energy Recovery (R1),14
+2012,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),466
+2012,Ireland,RCV_R,Material Recycling Facilities,254
+2012,Ireland,RCV_B,Soil & Mineral Backfilling Sites,212
+2014,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",19
+2014,Ireland,DSP_I,Incineration Disposal (D10),6
+2014,Ireland,RCV_E,Energy Recovery (R1),16
+2014,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),403
+2014,Ireland,RCV_R,Material Recycling Facilities,212
+2014,Ireland,RCV_B,Soil & Mineral Backfilling Sites,191
+2016,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",20
+2016,Ireland,DSP_I,Incineration Disposal (D10),5
+2016,Ireland,RCV_E,Energy Recovery (R1),16
+2016,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),398
+2016,Ireland,RCV_R,Material Recycling Facilities,205
+2016,Ireland,RCV_B,Soil & Mineral Backfilling Sites,193
+2016,Northern & Western,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",4
+2016,Northern & Western,DSP_I,Incineration Disposal (D10),0
+2016,Northern & Western,RCV_E,Energy Recovery (R1),2
+2016,Northern & Western,RCV_R_B,Recycling & Backfilling (Total R2–R11),78
+2016,Northern & Western,RCV_R,Material Recycling Facilities,31
+2016,Northern & Western,RCV_B,Soil & Mineral Backfilling Sites,47
+2016,Southern,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",5
+2016,Southern,DSP_I,Incineration Disposal (D10),3
+2016,Southern,RCV_E,Energy Recovery (R1),7
+2016,Southern,RCV_R_B,Recycling & Backfilling (Total R2–R11),172
+2016,Southern,RCV_R,Material Recycling Facilities,81
+2016,Southern,RCV_B,Soil & Mineral Backfilling Sites,91
+2016,Eastern & Midland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",11
+2016,Eastern & Midland,DSP_I,Incineration Disposal (D10),2
+2016,Eastern & Midland,RCV_E,Energy Recovery (R1),7
+2016,Eastern & Midland,RCV_R_B,Recycling & Backfilling (Total R2–R11),148
+2016,Eastern & Midland,RCV_R,Material Recycling Facilities,93
+2016,Eastern & Midland,RCV_B,Soil & Mineral Backfilling Sites,55
+2018,Ireland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",17
+2018,Ireland,DSP_I,Incineration Disposal (D10),3
+2018,Ireland,RCV_E,Energy Recovery (R1),7
+2018,Ireland,RCV_R_B,Recycling & Backfilling (Total R2–R11),354
+2018,Ireland,RCV_R,Material Recycling Facilities,125
+2018,Ireland,RCV_B,Soil & Mineral Backfilling Sites,229
+2018,Northern & Western,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",2
+2018,Northern & Western,DSP_I,Incineration Disposal (D10),0
+2018,Northern & Western,RCV_E,Energy Recovery (R1),1
+2018,Northern & Western,RCV_R_B,Recycling & Backfilling (Total R2–R11),64
+2018,Northern & Western,RCV_R,Material Recycling Facilities,25
+2018,Northern & Western,RCV_B,Soil & Mineral Backfilling Sites,39
+2018,Southern,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",5
+2018,Southern,DSP_I,Incineration Disposal (D10),3
+2018,Southern,RCV_E,Energy Recovery (R1),1
+2018,Southern,RCV_R_B,Recycling & Backfilling (Total R2–R11),166
+2018,Southern,RCV_R,Material Recycling Facilities,45
+2018,Southern,RCV_B,Soil & Mineral Backfilling Sites,121
+2018,Eastern & Midland,DSP_L,"Landfill Disposal Sites (D1, D5, D12)",10
+2018,Eastern & Midland,DSP_I,Incineration Disposal (D10),0
+2018,Eastern & Midland,RCV_E,Energy Recovery (R1),5
+2018,Eastern & Midland,RCV_R_B,Recycling & Backfilling (Total R2–R11),124
+2018,Eastern & Midland,RCV_R,Material Recycling Facilities,55
+2018,Eastern & Midland,RCV_B,Soil & Mineral Backfilling Sites,69
